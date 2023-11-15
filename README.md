@@ -3,6 +3,7 @@
 🔭 I’m currently working on MERN stack technology<br>👯 I’m looking to collaborate on anything Data<br>🌱 I’m currently learning Data Science<br>⚡ Fun fact I am also a digital artist 🎨
 
 <div align="center">
+  
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kirubel_fekadu) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kirubel606) 
 
