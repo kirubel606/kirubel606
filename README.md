@@ -23,7 +23,7 @@
 # 📊 GitHub Stats:
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kirubel606&theme=dark&hide_border=false&count_private=true)<br/>
-![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=kirubel606&theme=github)<br/>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kirubel606&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kirubel606&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
 
 ### 🔝 Top Contributed Repo
