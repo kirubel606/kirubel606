@@ -1,4 +1,10 @@
 
+    <img width=100% src="img/welcome.svg" color="00bfbf">
+
+![](https://komarev.com/ghpvc/?username=MelakuDemeke)
+<img src="https://img.shields.io/badge/kirubel606-is%20Available for a Remote Work-greenyellow" />
+
+
 # 💫 About Me:
 🔭 I’m currently working on MERN stack technology<br>👯 I’m looking to collaborate on anything Data<br>🌱 I’m currently learning Data Science<br>⚡ Fun fact I am also a digital artist 🎨
 
