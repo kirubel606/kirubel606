@@ -1,12 +1,17 @@
 
-    <img width=100% src="img/welcome.svg" color="00bfbf">
 
+<img width=100% src="img/welcome.svg" color="00bfbf">
+ 
 ![](https://komarev.com/ghpvc/?username=MelakuDemeke)
 <img src="https://img.shields.io/badge/kirubel606-is%20Available for a Remote Work-greenyellow" />
 
 
 # 💫 About Me:
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=I+am+a+Data+Scientist)](https://git.io/typing-svg)
+
 🔭 I’m currently working on MERN stack technology<br>👯 I’m looking to collaborate on anything Data<br>🌱 I’m currently learning Data Science<br>⚡ Fun fact I am also a digital artist 🎨
+
 
 <div align="center">
   
