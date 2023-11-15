@@ -14,10 +14,10 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kirubel606&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kirubel606&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
 
-#### NOTE: This does not indicate my skill level or language proficiency, it's merely a GitHub metric of which languages I have the most code of on GitHub.
-
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=kirubel606&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=kirubel606&limit=5&theme=dark&combine_all_yearly_contributions=true)<br/>
+
+#### NOTE: This does not indicate my skill level or language proficiency, it's merely a GitHub metric of which languages I have the most code of on GitHub.
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
