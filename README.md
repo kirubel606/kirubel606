@@ -1,7 +1,6 @@
 
 
-<img width=100% src="img/welcome.svg" color="00bfbf">
- 
+<p align="center"><img src="img/Header1.gif" /></p>
 ![](https://komarev.com/ghpvc/?username=MelakuDemeke)
 <img src="https://img.shields.io/badge/kirubel606-is%20Available for a Remote Work-greenyellow" />
 
