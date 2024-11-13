@@ -10,7 +10,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=I+am+a+Data+Scientist)](https://git.io/typing-svg)
 
-🔭 I’m currently working on MERN stack technology<br>👯 I’m looking to collaborate on anything Data<br>🌱 I’m currently learning Data Science<br>⚡ Fun fact I am also a digital artist 🎨
+🔭 I’m currently working on a Django fullstack application <br>👯 I’m looking to collaborate on anything Data<br>🌱 I’m currently learning Data Science<br>⚡ Fun fact I am also a digital artist 🎨
 
 
 <div align="center">
