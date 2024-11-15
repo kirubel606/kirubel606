@@ -31,8 +31,6 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=kirubel606&limit=5&theme=dark&combine_all_yearly_contributions=true)<br/>
 
-#### NOTE: This does not indicate my skill level or language proficiency, it's merely a GitHub metric of which languages I have the most code of on GitHub.
-
 ### ✍️ Quotes
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
