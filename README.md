@@ -1,6 +1,5 @@
 
-<p align="center"><img src="img/Header2.gif" /></p>
-
+<p align="center"><img src="img/ezgif-70be6ff810ddcdc0.gif" /></p>
 
 ![](https://komarev.com/ghpvc/?username=kirubel606)
 <img src="https://img.shields.io/badge/kirubel606-is%20Available for a Remote Work-greenyellow" />
