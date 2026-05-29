@@ -6,9 +6,6 @@
 
 
 # 💫 About Me:
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=I+am+a+Data+Scientist)](https://git.io/typing-svg)
-
 🔭 I’m currently working on a Django Application as a fullstack developer <br>👯 I’m looking to collaborate on anything Data<br>🌱 I’m also a Data Scientist<br>⚡ Fun fact I am also a digital artist 🎨
 
 
