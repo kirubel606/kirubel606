@@ -1,9 +1,5 @@
 
-<p align="center">
-  <video src="img/kirubel-fekadu-reel.mp4" autoplay muted loop playsinline width="100%" style="max-width: 640px;">
-    Your browser does not support the video tag.
-  </video>
-</p>
+<p align="center"><img src="img/Header2.gif" /></p>
 
 
 ![](https://komarev.com/ghpvc/?username=kirubel606)
